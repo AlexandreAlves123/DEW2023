@@ -1,1 +1,26 @@
-atividade do cassio
+passo a passo entrar github
+1 - Entrar no github com ermail isnittucional
+2 - Entra no VSCode
+3 - Fechar pasta (se estiver aberta) -file-->Close Folder
+4 - Ir no botão source-control
+5 - BOtao clone-repository
+6 - Copiar urel do repositorio do githube digitar enter
+7 - Clonar o diretorio em c:/xampp/htdocs e clcicar em open 
+8 - telaz azul se confia em author clicar em sim
+-----------------------------------------fim da clonagem do diretorio-------------------------------------------------------------
+passo a passo ocnfigurar terminal
+1 - ir no menu terminal -->new terminal 
+2 - digitar os comandos:
+git config --global user.email "nome@mail.com"
+git config --global user.name "Seu Nome"
+3- fecahar  terminal 
+-----------------------------------------------------------------------------------------------------------------------------------
+passo a passo enviar mudanças para o github
+1- salavr as mudanças com "Cntrl+S"
+2- ir no source-control
+3- em changes clicar em +
+4- selecionar uma mensagem no commit
+5- apertar commit & push (seta azul pra baixo)
+6 - na primeira vez dar as autorizações - na segunda vez nao sera necessario    
+7 - ver se o github foi ataulizado
+--------------------------------------------------fim------------------------------------------------------------------------------
